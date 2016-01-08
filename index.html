@@ -32,10 +32,8 @@
         CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
             subdomains: 'abcd',
-            maxZoom: 19
+            maxZoom: 17
         }).addTo(map); // besser als esri
-
-        L.control.layers({'Graustufen': CartoDB_Positron}, {}).addTo(map);
 
 		var markers = L.markerClusterGroup({
 			//'disableClusteringAtZoom': 16,
@@ -52,14 +50,17 @@
 					var location = locations[i];
 					var geocode = location.geocode;
 					var coordinates = [geocode.latitude, geocode.longitude];
-					L.marker(coordinates)
-							.bindPopup(location.title)
+                    var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>" + " (" + group.name + ")";
+                    L.marker(coordinates)
+							.bindPopup(popup_content)
 							.addTo(markers);
 				}
 			}
 		});
 
 		map.addLayer(markers);
+
+        L.control.layers({'Graustufen': CartoDB_Positron}, {}).addTo(map);
 
 	});
 </script>
