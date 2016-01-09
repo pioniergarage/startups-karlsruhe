@@ -42,16 +42,16 @@
 <script type="text/javascript">
 
 	$( document ).ready(function() {
-		var map = L.map('map', {'layers': []}).setView([49.0, 8.4], 13);
+        var coordinates_karlsruhe = [49.0, 8.4];
+        var map = L.map('map', {'layers': []}).setView(coordinates_karlsruhe, 13);
 
         CartoDB_Positron = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
             subdomains: 'abcd',
             maxZoom: 17
-        }).addTo(map); // besser als esri
+        }).addTo(map);
 
 		var clusters = L.markerClusterGroup({
-			//'disableClusteringAtZoom': 16,
             'singleMarkerMode': true, // 1-cluster instead of pointer
             'maxClusterRadius': 150 // clusters have 150px radius -> larger clusters
 		});
@@ -61,18 +61,19 @@
 		var heat = L.heatLayer([], {
 			minOpacity: 0.5, // cluster intensity -> size, area
 			radius: 50, // bigger dots -> area
-			blur: 75, // wider heatareas
+			blur: 75, // wider heat areas
 			max: 2 // avoids red dots for one single startup
 		}).addTo(map);
 
 
 		$.getJSON( "data.json", function( data ) {
-			for (i = 0; i < data.length; i++) {
+			for (var i = 0; i < data.length; i++) {
 				var location = data[i];
-				var geocode = location.geocode;
+
+                var geocode = location.geocode;
 				var coordinates = [geocode.latitude, geocode.longitude];
 
-				// marker
+				// markers (separate because of conflicts otherwise)
 				var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>";
 				L.marker(coordinates)
 						.bindPopup(popup_content)
