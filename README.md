@@ -1,4 +1,4 @@
-Startups in Karlsruhe
+Visualisierung der Startup-Szene in Karlsruhe
 ================================================================================
 
 [![Heatmap der Startups in Karlsruhe](startups-in-karlsruhe.jpg)](https://pioniergarage.github.io/karlsruhe-startups)
