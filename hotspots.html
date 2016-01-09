@@ -34,7 +34,8 @@
         }).addTo(map); // besser als esri
 
         var heat = L.heatLayer([], {
-            radius: 50, // bigger dots
+            minOpacity: 0.5, // cluster intensity -> size, area
+            radius: 50, // bigger dots -> area
             blur: 75, // wider heatareas
             max: 2 // avoids red dots for one single startup
         }).addTo(map);
