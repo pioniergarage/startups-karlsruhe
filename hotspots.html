@@ -44,11 +44,10 @@
             for (var group_id in data) {
                 var group = data[group_id];
                 var locations = group.locations_approved;
-                for (i = 0; i < locations.length; i++) {
+                for (var i = 0; i < locations.length; i++) {
                     var location = locations[i];
                     var geocode = location.geocode;
                     var coordinates = [geocode.latitude, geocode.longitude];
-                    var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>" + " (" + group.name + ")";
                     heat.addLatLng(coordinates);
                 }
             }
