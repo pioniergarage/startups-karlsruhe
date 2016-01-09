@@ -1,5 +1,7 @@
 <html>
 <head>
+	<title>Startups in Karlsruhe</title>
+
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -55,27 +57,23 @@
 
 
 		$.getJSON( "data.json", function( data ) {
-			for (var group_id in data) {
-				var group = data[group_id];
-				var locations = group.locations_approved;
-				for (i = 0; i < locations.length; i++) {
-					var location = locations[i];
-					var geocode = location.geocode;
-					var coordinates = [geocode.latitude, geocode.longitude];
+			for (i = 0; i < data.length; i++) {
+				var location = data[i];
+				var geocode = location.geocode;
+				var coordinates = [geocode.latitude, geocode.longitude];
 
-					// marker
-                    var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>" + " (" + group.name + ")";
-                    L.marker(coordinates)
-							.bindPopup(popup_content)
-							.addTo(clusters);
+				// marker
+				var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>";
+				L.marker(coordinates)
+						.bindPopup(popup_content)
+						.addTo(clusters);
 
-					L.marker(coordinates)
-							.bindPopup(popup_content)
-							.addTo(markers);
+				L.marker(coordinates)
+						.bindPopup(popup_content)
+						.addTo(markers);
 
-					// heat
-					heat.addLatLng(coordinates);
-				}
+				// heat
+				heat.addLatLng(coordinates);
 			}
 		});
 
