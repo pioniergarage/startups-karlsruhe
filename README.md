@@ -1,8 +1,8 @@
 Visualisierung der Startup-Szene in Karlsruhe
 ================================================================================
 
-[![Heatmap der Startups in Karlsruhe](startups-in-karlsruhe.jpg)](https://pioniergarage.github.io/karlsruhe-startups)
+Visualisierung der Startups in Karlsruhe mit [leaflet.js](https://leafletjs.com). Daten von [StartUpsKA](http://startupska.de) (aus der Startup-Kategorie). Erreichbar unter [pioniergarage.github.io/karlsruhe-startups](https://pioniergarage.github.io/karlsruhe-startups).
 
-Visualisierung der Startups in Kalrsruhe. Daten von [StartUpsKA](http://startupska.de) (aus der Startup-Kategorie).
+[![Heatmap der Startups in Karlsruhe](img/startups-in-karlsruhe.jpg)](https://pioniergarage.github.io/karlsruhe-startups)
 
-Author: [@lorey](https://github.com/lorey)
+Autor: [@lorey](https://github.com/lorey)
