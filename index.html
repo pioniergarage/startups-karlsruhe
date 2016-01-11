@@ -54,10 +54,10 @@
 			</div>
 			<div class="modal-body">
 				<p>
-					Dies ist eine Visualisierung der Startups in Karlsruhe als Heatmap. Die Daten wurden bereitgestellt von <a href="http://startupska.de" target="_blank">StartUpsKA</a> mit freundlicher Genehmigung des <a href="http://cyberforum.de">CyberForum</a>. Um auch in dieser Karte zu erscheinen, füllen Sie bitte das <a href="http://startupska.de" target="_blank">Formular auf StartUpsKa</a> aus.
+					Dies ist eine Visualisierung der Startups in Karlsruhe als Heatmap. Die Daten wurden bereitgestellt von <a href="http://startupska.de" target="_blank">StartUpsKA</a> mit freundlicher Genehmigung des <a href="http://cyberforum.de" target="_blank">CyberForum</a>.
 				</p>
 				<p>
-					Erstellt von Mitgliedern der <a href="http://pioniergarage.de" target="_blank">PionierGarage</a>.
+					Erstellt von Mitgliedern der <a href="http://pioniergarage.de" target="_blank">PionierGarage</a> und übrigens auch <a href="https://github.com/pioniergarage/startups-karlsruhe">auf GitHub</a>.
 				</p>
 			</div>
 			<div class="modal-footer">
@@ -103,13 +103,10 @@
 				var coordinates = [geocode.latitude, geocode.longitude];
 
 				// markers (separate because of conflicts otherwise)
-				var popup_content = "<a href=\"" + location.url + "\" target=\"_blank\">" + location.title + "</a>";
 				L.marker(coordinates)
-						.bindPopup(popup_content)
 						.addTo(clusters);
 
 				L.marker(coordinates)
-						.bindPopup(popup_content)
 						.addTo(markers);
 
 				// heat
