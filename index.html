@@ -61,7 +61,7 @@
 				</p>
 				<hr>
 				<p>
-					Die GPS-Daten werden freundlicherweise bereitgestellt vom <a href="http://cyberforum.de" target="_blank">CyberForum</a>. Wir haben leider keine Erlaubnis Namen und URLs der Startups zu zeigen, weshalb nur die blauen Startups mit Details zu sehen sind. Diese haben ihre Adresse im Impressum öffentlich oder per Mail freigegeben. Eine Eintragung ist jederzeit über eine formlose Mail an <a href="mailto:info(at)pioniergarage(punkt)de">info(at)pioniergarage(punkt)de</a> möglich.
+					Die GPS-Daten werden freundlicherweise bereitgestellt vom <a href="http://cyberforum.de" target="_blank">CyberForum</a>. Wir haben aber leider keine Erlaubnis Namen und URLs der Startups zu zeigen, weshalb nur die Startups der PionierGarage mit Name und URL zu sehen sind. Eine Eintragung ist jederzeit über eine formlose <a href="mailto:info(at)pioniergarage(punkt)de">Mail</a> möglich.
 				</p>
 			</div>
 			<div class="modal-footer">
@@ -86,13 +86,18 @@
 
 		var greyIcon = L.icon({
 			iconUrl: 'img/marker-icon-grey.png',
+			shadowUrl: 'js/leaflet/images/marker-shadow.png'
+		});
+
+        var redIcon = L.icon({
+			iconUrl: 'img/marker-icon-red.png',
 			shadowUrl: 'js/leaflet/images/marker-shadow.png',
 
 			iconSize:     [25, 41], // size of the icon
 			shadowSize:   [41, 41], // size of the shadow
 			iconAnchor:   [12, 41], // point of the icon which will correspond to marker's location
 			shadowAnchor: [12, 41],  // the same for the shadow
-			popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+			popupAnchor:  [0, -41] // point from which the popup should open relative to the iconAnchor
 		});
 
 		var clusters = L.markerClusterGroup({
@@ -127,10 +132,12 @@
 					'icon': greyIcon
 				};
 
-				var is_permitted = location.isPermitted || location.isPionierGarage;
-				if (is_permitted) {
+				var isVisible = location.isPionierGarage;
+				if (isVisible) {
 					popup_content = "<a href=\"" + location.url + "\">" + location.name + "</a>";
-					settings = {}
+					settings = {
+                        'icon': redIcon
+                    }
 				}
 
 				// markers (separate because of conflicts otherwise)
@@ -140,7 +147,7 @@
 				var marker_markers = L.marker(coordinates, settings)
 						.addTo(markers);
 
-				if (is_permitted) {
+				if (isVisible) {
 					marker_cluster.bindPopup(popup_content);
 					marker_markers.bindPopup(popup_content);
 				}
