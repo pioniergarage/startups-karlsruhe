@@ -2,1549 +2,1573 @@
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.453,
     "latitude": 49.031,
+    "longitude": 8.453,
     "name": "Aberklar GbR",
-    "url": "http://www.aberklar.com",
-    "startupska_id": 156
+    "startupska_id": 156,
+    "url": "http://www.aberklar.com"
   },
   {
     "isPermitted": true,
     "isPionierGarage": false,
-    "longitude": 8.427,
     "latitude": 49.013,
+    "longitude": 8.427,
     "name": "abusix GmbH",
-    "url": "https://abusix.com",
-    "startupska_id": 263
+    "startupska_id": 263,
+    "url": "https://abusix.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.0,
     "longitude": 8.406,
-    "latitude": 49.0,
     "name": "Addrezzed",
-    "url": "www.addrezzed.com",
-    "startupska_id": 250
+    "startupska_id": 250,
+    "url": "www.addrezzed.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.382,
     "latitude": 49.012,
+    "longitude": 8.382,
     "name": "admoreal",
-    "url": "http://www.admoreal.com/",
-    "startupska_id": 211
+    "startupska_id": 211,
+    "url": "http://www.admoreal.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.007,
     "longitude": 8.385,
-    "latitude": 49.007,
     "name": "ARA People's Language Academy NGO",
-    "url": "http://www.arapla.com",
-    "startupska_id": 77
+    "startupska_id": 77,
+    "url": "http://www.arapla.com"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.345,
     "latitude": 49.029,
+    "longitude": 8.345,
     "name": "ArtiCool",
-    "url": "http://articool.de/",
-    "startupska_id": 333
+    "startupska_id": 333,
+    "url": "http://articool.de/"
   },
   {
     "isPermitted": true,
     "isPionierGarage": false,
-    "longitude": 8.442,
     "latitude": 49.04,
+    "longitude": 8.442,
     "name": "ArtiMinds Robotics GmbH",
-    "url": "http://www.artiminds.com",
-    "startupska_id": 178
+    "startupska_id": 178,
+    "url": "http://www.artiminds.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.4,
     "latitude": 49.056,
+    "longitude": 8.4,
     "name": "Aspion",
-    "url": "http://www.aspion.de/",
-    "startupska_id": 219
+    "startupska_id": 219,
+    "url": "http://www.aspion.de/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.0,
     "longitude": 8.469,
-    "latitude": 49.0,
     "name": "audriga GmbH",
-    "url": "http://www.audriga.com",
-    "startupska_id": 16
+    "startupska_id": 16,
+    "url": "http://www.audriga.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.425,
     "latitude": 49.012,
+    "longitude": 8.425,
     "name": "avenyou GmbH",
-    "url": "http://www.avenyou.com",
-    "startupska_id": 164
+    "startupska_id": 164,
+    "url": "http://www.avenyou.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.416,
     "latitude": 49.002,
+    "longitude": 8.416,
     "name": "axinio.com",
-    "url": "https://www.axinio.com",
-    "startupska_id": 280
+    "startupska_id": 280,
+    "url": "https://www.axinio.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.564,
     "latitude": 49.535,
+    "longitude": 8.564,
     "name": "b3-systems",
-    "url": "http://www.b3-systems.de",
-    "startupska_id": 182
+    "startupska_id": 182,
+    "url": "http://www.b3-systems.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.389,
     "latitude": 49.012,
+    "longitude": 8.389,
     "name": "Best Cake in Town",
-    "url": "http://www.best-cake-in-town.de",
-    "startupska_id": 204
+    "startupska_id": 204,
+    "url": "http://www.best-cake-in-town.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.59,
     "latitude": 49.116,
+    "longitude": 8.59,
     "name": "Betty24 GmbH",
-    "url": "http://www.betty24.de",
-    "startupska_id": 237
+    "startupska_id": 237,
+    "url": "http://www.betty24.de"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.42,
     "latitude": 49.01,
+    "longitude": 8.42,
     "name": "Beyou",
-    "url": "http://bit.ly/1JIGmjP",
-    "startupska_id": 227
+    "startupska_id": 227,
+    "url": "http://bit.ly/1JIGmjP"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.0,
     "latitude": 48.711,
+    "longitude": 8.0,
     "name": "blacklabs",
-    "url": "http://blacklabs.info",
-    "startupska_id": 207
+    "startupska_id": 207,
+    "url": "http://blacklabs.info"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 13.404,
     "latitude": 52.527,
+    "longitude": 13.404,
     "name": "Boedger Media Solutions GmbH",
-    "url": "http://www.boedger.de",
-    "startupska_id": 17
+    "startupska_id": 17,
+    "url": "http://www.boedger.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.1,
     "latitude": 48.632,
+    "longitude": 8.1,
     "name": "boutique vegan",
-    "url": "http://www.boutique-vegan.com",
-    "startupska_id": 220
+    "startupska_id": 220,
+    "url": "http://www.boutique-vegan.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.432,
     "latitude": 49.005,
+    "longitude": 8.432,
     "name": "Brainchild Media",
-    "url": "http://www.brainchildmedia.de",
-    "startupska_id": 73
+    "startupska_id": 73,
+    "url": "http://www.brainchildmedia.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.593,
     "latitude": 49.125,
+    "longitude": 8.593,
     "name": "braintex",
-    "url": "http://www.braintex.de",
-    "startupska_id": 336
+    "startupska_id": 336,
+    "url": "http://www.braintex.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.272,
     "latitude": 48.922,
+    "longitude": 8.272,
     "name": "Callexa",
-    "url": "http://www.callexa.com",
-    "startupska_id": 167
+    "startupska_id": 167,
+    "url": "http://www.callexa.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 11.557,
     "latitude": 48.15,
+    "longitude": 11.557,
     "name": "Campus Compass",
-    "url": "http://campus-compass.eu",
-    "startupska_id": 246
+    "startupska_id": 246,
+    "url": "http://campus-compass.eu"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 9.958,
     "latitude": 48.4,
+    "longitude": 9.958,
     "name": "CampusCore - Software f\u00fcr Hochschulen GmbH & Co. KG",
-    "url": "http://www.CampusCore.eu",
-    "startupska_id": 190
+    "startupska_id": 190,
+    "url": "http://www.CampusCore.eu"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.387,
     "latitude": 49.002,
+    "longitude": 8.387,
     "name": "Campusj\u00e4ger GbR",
-    "url": "http://www.campusjaeger.de/",
-    "startupska_id": 173
+    "startupska_id": 173,
+    "url": "http://www.campusjaeger.de/"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.0124,
+    "longitude": 8.4255,
+    "name": "cashlink i.G.",
+    "url": "http://www.cashlink.io/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.428,
     "latitude": 49.092,
+    "longitude": 8.428,
     "name": "CCA - Carola Clean Air GmbH",
-    "url": "http://www.carola-clean-air.com",
-    "startupska_id": 185
+    "startupska_id": 185,
+    "url": "http://www.carola-clean-air.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.689,
     "latitude": 49.413,
+    "longitude": 8.689,
     "name": "chocoBRAIN",
-    "url": "http://www.chocoBRAIN.de",
-    "startupska_id": 74
+    "startupska_id": 74,
+    "url": "http://www.chocoBRAIN.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.39,
     "latitude": 49.007,
+    "longitude": 8.39,
     "name": "Clipchamp",
-    "url": "https://clipchamp.com",
-    "startupska_id": 341
+    "startupska_id": 341,
+    "url": "https://clipchamp.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.384,
     "latitude": 48.993,
+    "longitude": 8.384,
     "name": "Cliqmeet",
-    "url": "http://www.cliqmeet.com",
-    "startupska_id": 195
+    "startupska_id": 195,
+    "url": "http://www.cliqmeet.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.366,
     "latitude": 49.016,
+    "longitude": 8.366,
     "name": "Cloud & Store - B\u00fcro f\u00fcr Cloud und Backup L\u00f6sungen",
-    "url": "www.cloud-and-store.de",
-    "startupska_id": 278
+    "startupska_id": 278,
+    "url": "www.cloud-and-store.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.431,
     "latitude": 49.009,
+    "longitude": 8.431,
     "name": "codekunst GmbH",
-    "url": "http://www.codekunst.com",
-    "startupska_id": 177
+    "startupska_id": 177,
+    "url": "http://www.codekunst.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.008,
     "longitude": 8.389,
-    "latitude": 49.008,
     "name": "contentwerk",
-    "url": "http://www.contentwerk.eu",
-    "startupska_id": 198
+    "startupska_id": 198,
+    "url": "http://www.contentwerk.eu"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.41,
     "latitude": 49.009,
+    "longitude": 8.41,
     "name": "corvolution GmbH",
-    "url": "http://www.corvolution.com/",
-    "startupska_id": 253
+    "startupska_id": 253,
+    "url": "http://www.corvolution.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.357,
     "latitude": 49.028,
+    "longitude": 8.357,
     "name": "Courito UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.courito.com",
-    "startupska_id": 283
+    "startupska_id": 283,
+    "url": "http://www.courito.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.691,
     "latitude": 49.417,
+    "longitude": 8.691,
     "name": "Croking",
-    "url": "http://www.croking.com/",
-    "startupska_id": 212
+    "startupska_id": 212,
+    "url": "http://www.croking.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.012,
     "longitude": 8.365,
-    "latitude": 49.012,
     "name": "CrowdAppz",
-    "url": "http://drop.social/",
-    "startupska_id": 251
+    "startupska_id": 251,
+    "url": "http://drop.social/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.403,
     "latitude": 48.973,
+    "longitude": 8.403,
     "name": "cubuslab GmbH",
-    "url": "http://www.cubuslab.com",
-    "startupska_id": 320
+    "startupska_id": 320,
+    "url": "http://www.cubuslab.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.428,
     "latitude": 49.092,
+    "longitude": 8.428,
     "name": "cynora GmbH",
-    "url": "http://www.cynora.com/",
-    "startupska_id": 126
+    "startupska_id": 126,
+    "url": "http://www.cynora.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.007,
     "longitude": 8.381,
-    "latitude": 49.007,
     "name": "DamaHealth GbR",
-    "url": "http://www.damahealth.com",
-    "startupska_id": 342
+    "startupska_id": 342,
+    "url": "http://www.damahealth.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.012,
     "longitude": 8.423,
-    "latitude": 49.012,
     "name": "Datagnan UG",
-    "url": "http://www.datagnan.com/",
-    "startupska_id": 312
+    "startupska_id": 312,
+    "url": "http://www.datagnan.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.425,
     "latitude": 49.012,
+    "longitude": 8.425,
     "name": "datalyxt",
-    "url": "http://www.datalyxt.com",
-    "startupska_id": 166
+    "startupska_id": 166,
+    "url": "http://www.datalyxt.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.424,
     "latitude": 49.008,
+    "longitude": 8.424,
     "name": "Design-Heimkino.de",
-    "url": "http://www.design-heimkino.de",
-    "startupska_id": 162
+    "startupska_id": 162,
+    "url": "http://www.design-heimkino.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 48.966,
     "longitude": 8.402,
-    "latitude": 48.966,
     "name": "DRESSCLEVER",
-    "url": "http://www.dressclever.com",
-    "startupska_id": 158
+    "startupska_id": 158,
+    "url": "http://www.dressclever.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.372,
     "latitude": 49.006,
+    "longitude": 8.372,
     "name": "e&d medienl\u00f6sungen",
-    "url": "http://www.eundd.com",
-    "startupska_id": 61
+    "startupska_id": 61,
+    "url": "http://www.eundd.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.009,
     "longitude": 8.443,
-    "latitude": 49.009,
     "name": "e-Motion Line GmbH",
-    "url": "http://www.e-motion-line.de",
-    "startupska_id": 122
+    "startupska_id": 122,
+    "url": "http://www.e-motion-line.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.348,
     "latitude": 49.026,
+    "longitude": 8.348,
     "name": "e-volo GmbH",
-    "url": "http://volocopter.com/",
-    "startupska_id": 197
+    "startupska_id": 197,
+    "url": "http://volocopter.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.424,
     "latitude": 49.012,
+    "longitude": 8.424,
     "name": "easierLife",
-    "url": "http://www.easierlife.de",
-    "startupska_id": 201
+    "startupska_id": 201,
+    "url": "http://www.easierlife.de"
   },
   {
     "isPermitted": true,
     "isPionierGarage": false,
+    "latitude": 48.999,
     "longitude": 8.382,
-    "latitude": 48.999,
     "name": "Echobot Media Technologies GmbH",
-    "url": "http://www.echobot.de",
-    "startupska_id": 22
+    "startupska_id": 22,
+    "url": "http://www.echobot.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.387,
     "latitude": 49.004,
+    "longitude": 8.387,
     "name": "editorio",
-    "url": "http://www.editorio.biz",
-    "startupska_id": 180
+    "startupska_id": 180,
+    "url": "http://www.editorio.biz"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.012,
     "longitude": 8.409,
-    "latitude": 49.012,
     "name": "emmtrix Technologies GmbH",
-    "url": "http://www.emmtrix.com",
-    "startupska_id": 352
+    "startupska_id": 352,
+    "url": "http://www.emmtrix.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.01,
     "longitude": 8.39,
-    "latitude": 49.01,
     "name": "enspire UG",
-    "url": "http://www.sunsteps.org",
-    "startupska_id": 67
+    "startupska_id": 67,
+    "url": "http://www.sunsteps.org"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.44,
     "latitude": 48.934,
+    "longitude": 8.44,
     "name": "esentri",
-    "url": "http://www.esentri.com",
-    "startupska_id": 69
+    "startupska_id": 69,
+    "url": "http://www.esentri.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.425,
     "latitude": 49.012,
+    "longitude": 8.425,
     "name": "EVT Eye Vision Technology AG",
-    "url": "http://www.evt-web.com",
-    "startupska_id": 279
+    "startupska_id": 279,
+    "url": "http://www.evt-web.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.424,
     "latitude": 49.014,
+    "longitude": 8.424,
     "name": "Eyezag",
-    "url": "https://eyezag.de",
-    "startupska_id": 307
+    "startupska_id": 307,
+    "url": "https://eyezag.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.363,
     "latitude": 49.639,
+    "longitude": 8.363,
     "name": "FAITCO Systems GmbH",
-    "url": "http://www.faitco.com",
-    "startupska_id": 326
+    "startupska_id": 326,
+    "url": "http://www.faitco.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.425,
     "latitude": 49.012,
+    "longitude": 8.425,
     "name": "Falquez, Pantle und Pritz GbR",
-    "url": "http://www.nuberisim.de",
-    "startupska_id": 242
+    "startupska_id": 242,
+    "url": "http://www.nuberisim.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 7.862,
     "latitude": 48.159,
+    "longitude": 7.862,
     "name": "FileTrain",
-    "url": "https://filetrain.de/",
-    "startupska_id": 208
+    "startupska_id": 208,
+    "url": "https://filetrain.de/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.003,
     "longitude": 8.515,
-    "latitude": 49.003,
     "name": "FITLIX",
-    "url": "https://fitlix.de/",
-    "startupska_id": 210
+    "startupska_id": 210,
+    "url": "https://fitlix.de/"
   },
   {
     "isPermitted": true,
     "isPionierGarage": false,
-    "longitude": 8.397,
     "latitude": 49.009,
+    "longitude": 8.397,
     "name": "flaregames GmbH",
-    "url": "http://www.flaregames.com",
-    "startupska_id": 54
+    "startupska_id": 54,
+    "url": "http://www.flaregames.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 9.349,
     "latitude": 48.878,
+    "longitude": 9.349,
     "name": "Fleetize UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.fleetize.com",
-    "startupska_id": 318
+    "startupska_id": 318,
+    "url": "http://www.fleetize.com"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
+    "latitude": 49.014,
     "longitude": 8.43,
-    "latitude": 49.014,
     "name": "Fluffy Fairy Games",
-    "url": "http://Frontyardwars.com",
-    "startupska_id": 354
+    "startupska_id": 354,
+    "url": "http://Frontyardwars.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.717,
     "latitude": 48.879,
+    "longitude": 8.717,
     "name": "Free-Linked GmbH",
-    "url": "http://www.free-linked.de",
-    "startupska_id": 23
+    "startupska_id": 23,
+    "url": "http://www.free-linked.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.011,
     "longitude": 8.362,
-    "latitude": 49.011,
     "name": "Gebhart Quality Analysis (QA) 82",
-    "url": "http://www.qa82.com",
-    "startupska_id": 24
+    "startupska_id": 24,
+    "url": "http://www.qa82.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.013,
     "longitude": 8.446,
-    "latitude": 49.013,
     "name": "Geisteswirtschaft",
-    "url": "http://www.geisteswirtschaft.de",
-    "startupska_id": 129
+    "startupska_id": 129,
+    "url": "http://www.geisteswirtschaft.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 47.999,
     "longitude": 7.789,
-    "latitude": 47.999,
     "name": "Generative Software GmbH",
-    "url": "http://www.generative-software.de",
-    "startupska_id": 40
+    "startupska_id": 40,
+    "url": "http://www.generative-software.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.011,
     "longitude": 8.412,
-    "latitude": 49.011,
     "name": "GeoTech Systems",
-    "url": "http://www.geotech-systems.de/",
-    "startupska_id": 216
+    "startupska_id": 216,
+    "url": "http://www.geotech-systems.de/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.429,
     "latitude": 49.007,
+    "longitude": 8.429,
     "name": "gloveler GmbH",
-    "url": "http://www.gloveler.de",
-    "startupska_id": 132
+    "startupska_id": 132,
+    "url": "http://www.gloveler.de"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.432,
     "latitude": 49.005,
+    "longitude": 8.432,
     "name": "Green Parrot UG (Busliniensuche)",
-    "url": "http://www.busliniensuche.de",
-    "startupska_id": 57
+    "startupska_id": 57,
+    "url": "http://www.busliniensuche.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.722,
     "latitude": 49.05,
+    "longitude": 8.722,
     "name": "Heartbeats UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.blutspendeausweis.de",
-    "startupska_id": 222
+    "startupska_id": 222,
+    "url": "http://www.blutspendeausweis.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.483,
     "latitude": 48.966,
+    "longitude": 8.483,
     "name": "high5 UG",
-    "url": "http://www.high5lab.com",
-    "startupska_id": 189
+    "startupska_id": 189,
+    "url": "http://www.high5lab.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.428,
     "latitude": 49.092,
+    "longitude": 8.428,
     "name": "HS-Analysis i. Gr. ",
-    "url": "http://www.hs-analysis.com",
-    "startupska_id": 340
+    "startupska_id": 340,
+    "url": "http://www.hs-analysis.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.404,
     "latitude": 49.002,
+    "longitude": 8.404,
     "name": "iMapping",
-    "url": "http://www.imapping.info/",
-    "startupska_id": 200
+    "startupska_id": 200,
+    "url": "http://www.imapping.info/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.01,
     "longitude": 8.393,
-    "latitude": 49.01,
     "name": "INDMATEC GmbH - Industrial Materials & 3D Printing Technologies",
-    "url": "http://www.indmatec.com",
-    "startupska_id": 240
+    "startupska_id": 240,
+    "url": "http://www.indmatec.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.392,
     "latitude": 49.079,
+    "longitude": 8.392,
     "name": "IneraTec",
-    "url": "http://www.ineratec.de",
-    "startupska_id": 286
+    "startupska_id": 286,
+    "url": "http://www.ineratec.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.006,
     "longitude": 8.375,
-    "latitude": 49.006,
     "name": "Ingenieurb\u00fcro Embedded",
-    "url": "http://www.ib-embedded.de",
-    "startupska_id": 151
+    "startupska_id": 151,
+    "url": "http://www.ib-embedded.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.383,
     "latitude": 48.999,
+    "longitude": 8.383,
     "name": "Innovative Agile Systems UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.mygastrotab.de",
-    "startupska_id": 229
+    "startupska_id": 229,
+    "url": "http://www.mygastrotab.de"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.394,
     "latitude": 49.008,
-    "name": "Inreal Technologies GmbH",
-    "url": "http://www.inreal-tech.com",
-    "startupska_id": 26
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.648,
-    "latitude": 49.295,
-    "name": "InSpoSer UG",
-    "url": "http://www.revoprint.de",
-    "startupska_id": 55
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.413,
-    "latitude": 49.01,
-    "name": "iuvaris GmbH i. G.",
-    "url": "http://www.iuvaris.de",
-    "startupska_id": 124
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.427,
-    "latitude": 49.013,
-    "name": "Jamit Labs GmbH",
-    "url": "https://jamitlabs.com",
-    "startupska_id": 321
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.413,
-    "latitude": 49.001,
-    "name": "Juhu Papeterie",
-    "url": "http://www.juhupapeterie.de",
-    "startupska_id": 161
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.427,
-    "latitude": 49.013,
-    "name": "Keypoint Visual Management GmbH",
-    "url": "http://www.keypoint-company.com",
-    "startupska_id": 319
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": true,
-    "longitude": 8.422,
-    "latitude": 49.01,
-    "name": "LehrWerk",
-    "url": "http://www.lehrwerk.com",
-    "startupska_id": 233
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": true,
-    "longitude": 8.422,
-    "latitude": 49.009,
-    "name": "lengoo",
-    "url": "http://www.lengoo.de",
-    "startupska_id": 50
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.431,
-    "latitude": 49.004,
-    "name": "let's dev GmbH & Co. KG",
-    "url": "http://www.letsdev.de",
-    "startupska_id": 28
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.396,
-    "latitude": 49.007,
-    "name": "Lets Eat Somewhere",
-    "url": "http://letseatsomewhere.com/",
-    "startupska_id": 221
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 7.661,
-    "latitude": 47.606,
-    "name": "libreja",
-    "url": "http://www.libreja.de",
-    "startupska_id": 68
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.391,
-    "latitude": 49.01,
-    "name": "Likomi",
-    "url": "http://www.likomi.com",
-    "startupska_id": 174
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.425,
-    "latitude": 49.012,
-    "name": "Livedooh GmbH",
-    "url": "http://www.livedooh.com",
-    "startupska_id": 277
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.392,
-    "latitude": 48.996,
-    "name": "locaside GbR",
-    "url": "http://www.locaside.com",
-    "startupska_id": 33
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.391,
-    "latitude": 49.01,
-    "name": "Lookeen",
-    "url": "http://www.lookeen.com",
-    "startupska_id": 245
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.432,
-    "latitude": 49.005,
-    "name": "MADE GmbH",
-    "url": "http://www.made-apps.com",
-    "startupska_id": 149
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 6.128,
-    "latitude": 49.651,
-    "name": "mamooble SARL",
-    "url": "https://www.mamooble.com/",
-    "startupska_id": 268
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.427,
-    "latitude": 49.013,
-    "name": "MAPT",
-    "url": "http://www.access.mapt.pro/",
-    "startupska_id": 217
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.119,
-    "latitude": 49.188,
-    "name": "Mark Lotse",
-    "url": "http://www.mark-lotse.com",
-    "startupska_id": 262
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.425,
-    "latitude": 49.009,
-    "name": "Marrytales",
-    "url": "http://marrytales.de/",
-    "startupska_id": 65
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.658,
-    "latitude": 49.378,
-    "name": "Matrix-Technologies",
-    "url": "http://matrix-technologies.de/vr-edition",
-    "startupska_id": 252
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.403,
-    "latitude": 48.973,
-    "name": "MayForms UG",
-    "url": "http://www.mayforms.com",
-    "startupska_id": 338
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.377,
-    "latitude": 49.007,
-    "name": "mediakular",
-    "url": "http://www.mediakular.de",
-    "startupska_id": 181
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.398,
-    "latitude": 48.996,
-    "name": "microworks GmbH",
-    "url": "http://www.micro-works.de",
-    "startupska_id": 260
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.391,
-    "latitude": 49.002,
-    "name": "Mighty Instruments UG (haftungsbeschr\u00e4nkt) i. Gr.",
-    "url": "http://www.mighty-instruments.de/",
-    "startupska_id": 80
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.397,
-    "latitude": 49.009,
-    "name": "mobilion.eu",
-    "url": "http://www.mobilion.eu",
-    "startupska_id": 203
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.41,
-    "latitude": 49.009,
-    "name": "movisens GmbH",
-    "url": "http://www.movisens.com",
-    "startupska_id": 123
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 7.846,
-    "latitude": 47.999,
-    "name": "MPS \u2013 Medizinische Planungssysteme GmbH",
-    "url": "http://www.chemocompile.de",
-    "startupska_id": 70
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.431,
-    "latitude": 49.004,
-    "name": "NACONA Filmproduktionen",
-    "url": "http://www.nacona.de",
-    "startupska_id": 339
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.369,
-    "latitude": 49.012,
-    "name": "NETSYNO Software GmbH",
-    "url": "http://netsyno.com/",
-    "startupska_id": 272
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.428,
-    "latitude": 49.013,
-    "name": "NinjaConcept",
-    "url": "http://www.ninjaconcept.com",
-    "startupska_id": 59
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.416,
-    "latitude": 49.003,
-    "name": "Not a Swan UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.notaswan.de",
-    "startupska_id": 62
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.699,
-    "latitude": 48.891,
-    "name": "NOX Robots ",
-    "url": "http://www.noxtherobot.com",
-    "startupska_id": 30
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.424,
-    "latitude": 49.012,
-    "name": "nubedian GmbH",
-    "url": "http://www.nubedian.de",
-    "startupska_id": 31
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.468,
-    "latitude": 49.0,
-    "name": "OrganisedMinds GmbH",
-    "url": "http://www.organisedminds.com",
-    "startupska_id": 32
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.372,
-    "latitude": 49.006,
-    "name": "orglr",
-    "url": "http://www.orglr.com",
-    "startupska_id": 58
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.41,
-    "latitude": 49.012,
-    "name": "otego",
-    "url": "http://www.otego.de",
-    "startupska_id": 350
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.356,
-    "latitude": 49.003,
-    "name": "Ovisto",
-    "url": "http://ovisto.de/start.html",
-    "startupska_id": 248
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": true,
-    "longitude": 8.433,
-    "latitude": 49.01,
-    "name": "Papershift",
-    "url": "http://www.papershift.com",
-    "startupska_id": 179
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.31,
-    "latitude": 48.845,
-    "name": "PARALUTION Labs",
-    "url": "http://www.paralution.com/",
-    "startupska_id": 306
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": true,
-    "longitude": 8.42,
-    "latitude": 49.01,
-    "name": "pardonate",
-    "url": "http://www.pardonate.com",
-    "startupska_id": 244
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.418,
-    "latitude": 49.005,
-    "name": "PDMLab e.K.",
-    "url": "http://pdmlab.com",
-    "startupska_id": 267
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.371,
-    "latitude": 48.996,
-    "name": "Pharos Solutions",
-    "url": "http://www.pharos-solutions.de",
-    "startupska_id": 60
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.344,
-    "latitude": 48.874,
-    "name": "Piepkind",
-    "url": "www.piepkind.de",
-    "startupska_id": 271
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.359,
-    "latitude": 49.024,
-    "name": "Planature",
-    "url": "http://www.planature.org",
-    "startupska_id": 142
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.405,
-    "latitude": 48.982,
-    "name": "PowMio",
-    "url": "http://www.powmio.com",
-    "startupska_id": 335
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.411,
-    "latitude": 49.009,
-    "name": "PriceNow",
-    "url": "http://www.price-now.com",
-    "startupska_id": 157
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.107,
-    "latitude": 48.788,
-    "name": "PriceSpot UG",
-    "url": "http://www.pricespot.de",
-    "startupska_id": 330
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.329,
-    "latitude": 49.011,
-    "name": "Proom Media",
-    "url": "http://www.proom-media.de",
-    "startupska_id": 160
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.358,
-    "latitude": 49.014,
-    "name": "PXNG.LI GdbR",
-    "url": "http://www.pong.li",
-    "startupska_id": 35
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.425,
-    "latitude": 49.012,
-    "name": "Qymatix Solutions GmbH",
-    "url": "http://www.qymatix.com",
-    "startupska_id": 169
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.425,
-    "latitude": 49.012,
-    "name": "Qymatix Solutions GmbH",
-    "url": "https://www.qymatix.de/",
-    "startupska_id": 329
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.424,
-    "latitude": 49.017,
-    "name": "RedSeat",
-    "url": "http://www.redseat.de",
-    "startupska_id": 261
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.425,
-    "latitude": 49.011,
-    "name": "reposit.records UG",
-    "url": "http://www.repositrecords.com",
-    "startupska_id": 247
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.523,
-    "latitude": 49.007,
-    "name": "RESTUBE GmbH",
-    "url": "http://www.restube.eu",
-    "startupska_id": 150
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.228,
-    "latitude": 49.195,
-    "name": "ReTest",
-    "url": "http://www.retest.de/",
-    "startupska_id": 214
-  },
-  {
-    "isPermitted": true,
-    "isPionierGarage": false,
-    "longitude": 8.429,
-    "latitude": 49.014,
-    "name": "ReTest",
-    "url": "http://www.retest.de",
-    "startupska_id": 334
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.648,
-    "latitude": 49.295,
-    "name": "RevoPrint",
-    "url": "http://www.revoprint.de",
-    "startupska_id": 138
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.42,
-    "latitude": 49.127,
-    "name": "riskoo GmbH & Co. KG",
-    "url": "https://www.riskoo.de",
-    "startupska_id": 327
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 9.361,
-    "latitude": 49.143,
-    "name": "Sanabest GmbH",
-    "url": "http://www.sanabest.de",
-    "startupska_id": 309
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.397,
-    "latitude": 49.009,
-    "name": "SCHLEYER CONVERSION",
-    "url": "http://www.schleyer-conversion.de",
-    "startupska_id": 155
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.397,
-    "latitude": 49.01,
-    "name": "SchulLV ",
-    "url": "http://www.SchulLV.net",
-    "startupska_id": 64
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.432,
-    "latitude": 49.005,
-    "name": "SearchHaus",
-    "url": "http://www.searchhaus.net",
-    "startupska_id": 168
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.427,
-    "latitude": 49.013,
-    "name": "seminaut",
-    "url": "http://www.seminaut.de/",
-    "startupska_id": 205
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 7.872,
-    "latitude": 48.341,
-    "name": "sevDesk",
-    "url": "http://sevdesk.de",
-    "startupska_id": 241
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.429,
-    "latitude": 49.007,
-    "name": "Sharkbomb Studios",
-    "url": "http://www.sharkbombs.com",
-    "startupska_id": 53
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.387,
-    "latitude": 49.002,
-    "name": "Siccas Guitars",
-    "url": "http://www.siccas.de",
-    "startupska_id": 358
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.421,
-    "latitude": 48.898,
-    "name": "softtop 'ride dry and easy'",
-    "url": "http://www.softtop.bike",
-    "startupska_id": 298
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.421,
-    "latitude": 48.898,
-    "name": "softtop 'ride dry and easy'",
-    "url": "http://www.softtop.bike",
-    "startupska_id": 315
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 9.533,
-    "latitude": 48.802,
-    "name": "Software Factories UG",
-    "url": "http://www.soft-fact.de",
-    "startupska_id": 37
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
     "longitude": 8.394,
-    "latitude": 48.948,
-    "name": "soop International GmbH",
-    "url": "http://www.soop-international.com",
-    "startupska_id": 239
+    "name": "Inreal Technologies GmbH",
+    "startupska_id": 26,
+    "url": "http://www.inreal-tech.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.478,
-    "latitude": 48.998,
-    "name": "STAPPZ made by Iunera GmbH & CO. KG",
-    "url": "http://stappz.com",
-    "startupska_id": 231
+    "latitude": 49.295,
+    "longitude": 8.648,
+    "name": "InSpoSer UG",
+    "startupska_id": 55,
+    "url": "http://www.revoprint.de"
   },
   {
-    "isPermitted": true,
+    "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.386,
     "latitude": 49.01,
-    "name": "Studi-Food",
-    "url": "http://studi-food-ka.de/",
-    "startupska_id": 238
+    "longitude": 8.413,
+    "name": "iuvaris GmbH i. G.",
+    "startupska_id": 124,
+    "url": "http://www.iuvaris.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.534,
-    "latitude": 49.049,
-    "name": "SURFtheWORLD",
-    "url": "http://www.surf-the-world.com/",
-    "startupska_id": 82
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.392,
     "latitude": 49.013,
-    "name": "techdev Solutions UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://techdev.de",
-    "startupska_id": 136
+    "longitude": 8.427,
+    "name": "Jamit Labs GmbH",
+    "startupska_id": 321,
+    "url": "https://jamitlabs.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.466,
-    "latitude": 49.0,
-    "name": "TelPit",
-    "url": "http://www.telpit.de",
-    "startupska_id": 215
+    "latitude": 49.001,
+    "longitude": 8.413,
+    "name": "Juhu Papeterie",
+    "startupska_id": 161,
+    "url": "http://www.juhupapeterie.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.207,
-    "latitude": 48.78,
-    "name": "Tempomacher Consulting UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.tempomacher-consulting.de",
-    "startupska_id": 328
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.428,
-    "latitude": 49.482,
-    "name": "Tempreo UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.tempreo.de",
-    "startupska_id": 337
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.371,
-    "latitude": 48.996,
-    "name": "Tralios IT GmbH",
-    "url": "http://www.tralios.de",
-    "startupska_id": 81
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 9.111,
-    "latitude": 48.725,
-    "name": "trendmarke Werbeagentur GmbH",
-    "url": "http://www.trendmarke.de",
-    "startupska_id": 38
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.44,
-    "latitude": 48.934,
-    "name": "Tut-All Software",
-    "url": "http://www.tut-all.com",
-    "startupska_id": 218
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
-    "longitude": 8.392,
-    "latitude": 48.997,
-    "name": "Unibrett GbR",
-    "url": "http://www.unibrett.net",
-    "startupska_id": 314
+    "latitude": 49.013,
+    "longitude": 8.427,
+    "name": "Keypoint Visual Management GmbH",
+    "startupska_id": 319,
+    "url": "http://www.keypoint-company.com"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.37,
-    "latitude": 49.021,
-    "name": "UniReg",
-    "url": "http://www.uni-reg.de",
-    "startupska_id": 270
+    "latitude": 49.01,
+    "longitude": 8.422,
+    "name": "LehrWerk",
+    "startupska_id": 233,
+    "url": "http://www.lehrwerk.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.009,
+    "longitude": 8.422,
+    "name": "lengoo",
+    "startupska_id": 50,
+    "url": "http://www.lengoo.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.675,
-    "latitude": 50.115,
-    "name": "United Signals GmbH",
-    "url": "http://www.united-signals.com",
-    "startupska_id": 39
+    "latitude": 49.004,
+    "longitude": 8.431,
+    "name": "let's dev GmbH & Co. KG",
+    "startupska_id": 28,
+    "url": "http://www.letsdev.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.196,
-    "latitude": 49.082,
-    "name": "UVstars",
-    "url": "http://www.uvstars.com",
-    "startupska_id": 134
+    "latitude": 49.007,
+    "longitude": 8.396,
+    "name": "Lets Eat Somewhere",
+    "startupska_id": 221,
+    "url": "http://letseatsomewhere.com/"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.594,
-    "latitude": 49.134,
-    "name": "VICARDION",
-    "url": "http://www.vicardion.de",
-    "startupska_id": 125
+    "latitude": 47.606,
+    "longitude": 7.661,
+    "name": "libreja",
+    "startupska_id": 68,
+    "url": "http://www.libreja.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.425,
+    "latitude": 49.01,
+    "longitude": 8.391,
+    "name": "Likomi",
+    "startupska_id": 174,
+    "url": "http://www.likomi.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
     "latitude": 49.012,
-    "name": "Videmo Intelligente Videoanalyse GmbH & Co. KG",
-    "url": "http://www.videmo.de",
-    "startupska_id": 131
+    "longitude": 8.425,
+    "name": "Livedooh GmbH",
+    "startupska_id": 277,
+    "url": "http://www.livedooh.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 9.269,
-    "latitude": 48.709,
-    "name": "Vidipedia GmbH",
-    "url": "http://viunity.de/",
-    "startupska_id": 288
+    "latitude": 48.996,
+    "longitude": 8.392,
+    "name": "locaside GbR",
+    "startupska_id": 33,
+    "url": "http://www.locaside.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.411,
-    "latitude": 48.964,
-    "name": "Vital Coaches",
-    "url": "http://www.vital-coaches.de/",
-    "startupska_id": 175
-  },
-  {
-    "isPermitted": false,
-    "isPionierGarage": false,
+    "latitude": 49.01,
     "longitude": 8.391,
-    "latitude": 49.032,
-    "name": "WALNUSS",
-    "url": "http://www.walnuss-ds.com",
-    "startupska_id": 127
+    "name": "Lookeen",
+    "startupska_id": 245,
+    "url": "http://www.lookeen.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.404,
-    "latitude": 48.953,
-    "name": "Waste Value UG",
-    "url": "http://www.waste-value.com",
-    "startupska_id": 266
+    "latitude": 49.005,
+    "longitude": 8.432,
+    "name": "MADE GmbH",
+    "startupska_id": 149,
+    "url": "http://www.made-apps.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.651,
+    "longitude": 6.128,
+    "name": "mamooble SARL",
+    "startupska_id": 268,
+    "url": "https://www.mamooble.com/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.013,
+    "longitude": 8.427,
+    "name": "MAPT",
+    "startupska_id": 217,
+    "url": "http://www.access.mapt.pro/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.188,
+    "longitude": 8.119,
+    "name": "Mark Lotse",
+    "startupska_id": 262,
+    "url": "http://www.mark-lotse.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.009,
+    "longitude": 8.425,
+    "name": "Marrytales",
+    "startupska_id": 65,
+    "url": "http://marrytales.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.378,
+    "longitude": 8.658,
+    "name": "Matrix-Technologies",
+    "startupska_id": 252,
+    "url": "http://matrix-technologies.de/vr-edition"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 48.973,
+    "longitude": 8.403,
+    "name": "MayForms UG",
+    "startupska_id": 338,
+    "url": "http://www.mayforms.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.007,
+    "longitude": 8.377,
+    "name": "mediakular",
+    "startupska_id": 181,
+    "url": "http://www.mediakular.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.996,
+    "longitude": 8.398,
+    "name": "microworks GmbH",
+    "startupska_id": 260,
+    "url": "http://www.micro-works.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.002,
+    "longitude": 8.391,
+    "name": "Mighty Instruments UG (haftungsbeschr\u00e4nkt) i. Gr.",
+    "startupska_id": 80,
+    "url": "http://www.mighty-instruments.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.009,
+    "longitude": 8.397,
+    "name": "mobilion.eu",
+    "startupska_id": 203,
+    "url": "http://www.mobilion.eu"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.009,
     "longitude": 8.41,
-    "latitude": 49.001,
-    "name": "Wave Event GmbH",
-    "url": "http://www.wave-event.de",
-    "startupska_id": 146
+    "name": "movisens GmbH",
+    "startupska_id": 123,
+    "url": "http://www.movisens.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 47.999,
+    "longitude": 7.846,
+    "name": "MPS \u2013 Medizinische Planungssysteme GmbH",
+    "startupska_id": 70,
+    "url": "http://www.chemocompile.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.004,
+    "longitude": 8.431,
+    "name": "NACONA Filmproduktionen",
+    "startupska_id": 339,
+    "url": "http://www.nacona.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.369,
+    "name": "NETSYNO Software GmbH",
+    "startupska_id": 272,
+    "url": "http://netsyno.com/"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.013,
+    "longitude": 8.428,
+    "name": "NinjaConcept",
+    "startupska_id": 59,
+    "url": "http://www.ninjaconcept.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.003,
+    "longitude": 8.416,
+    "name": "Not a Swan UG (haftungsbeschr\u00e4nkt)",
+    "startupska_id": 62,
+    "url": "http://www.notaswan.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.891,
+    "longitude": 8.699,
+    "name": "NOX Robots ",
+    "startupska_id": 30,
+    "url": "http://www.noxtherobot.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.424,
+    "name": "nubedian GmbH",
+    "startupska_id": 31,
+    "url": "http://www.nubedian.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.0,
+    "longitude": 8.468,
+    "name": "OrganisedMinds GmbH",
+    "startupska_id": 32,
+    "url": "http://www.organisedminds.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.006,
+    "longitude": 8.372,
+    "name": "orglr",
+    "startupska_id": 58,
+    "url": "http://www.orglr.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.41,
+    "name": "otego",
+    "startupska_id": 350,
+    "url": "http://www.otego.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.003,
+    "longitude": 8.356,
+    "name": "Ovisto",
+    "startupska_id": 248,
+    "url": "http://ovisto.de/start.html"
   },
   {
     "isPermitted": true,
     "isPionierGarage": true,
-    "longitude": 8.391,
-    "latitude": 49.001,
-    "name": "Wechselfuchs UG",
-    "url": "https://www.wechselfuchs.de/",
-    "startupska_id": 206
+    "latitude": 49.01,
+    "longitude": 8.433,
+    "name": "Papershift",
+    "startupska_id": 179,
+    "url": "http://www.papershift.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.437,
-    "latitude": 49.036,
-    "name": "Wer Forscht Was",
-    "url": "http://www.werforschtwas.de",
-    "startupska_id": 256
+    "latitude": 48.845,
+    "longitude": 8.31,
+    "name": "PARALUTION Labs",
+    "startupska_id": 306,
+    "url": "http://www.paralution.com/"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.01,
+    "longitude": 8.42,
+    "name": "pardonate",
+    "startupska_id": 244,
+    "url": "http://www.pardonate.com"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.478,
-    "latitude": 48.946,
-    "name": "Xtal GbR (www.osos-sales.de)",
-    "url": "http://www.osos-sales.de",
-    "startupska_id": 299
+    "latitude": 49.005,
+    "longitude": 8.418,
+    "name": "PDMLab e.K.",
+    "startupska_id": 267,
+    "url": "http://pdmlab.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 48.996,
+    "longitude": 8.371,
+    "name": "Pharos Solutions",
+    "startupska_id": 60,
+    "url": "http://www.pharos-solutions.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
-    "longitude": 8.441,
-    "latitude": 49.013,
-    "name": "y8x",
-    "url": "http://y8x.cc",
-    "startupska_id": 313
+    "latitude": 48.874,
+    "longitude": 8.344,
+    "name": "Piepkind",
+    "startupska_id": 271,
+    "url": "www.piepkind.de"
   },
   {
     "isPermitted": false,
     "isPionierGarage": false,
+    "latitude": 49.024,
+    "longitude": 8.359,
+    "name": "Planature",
+    "startupska_id": 142,
+    "url": "http://www.planature.org"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.982,
+    "longitude": 8.405,
+    "name": "PowMio",
+    "startupska_id": 335,
+    "url": "http://www.powmio.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.009,
+    "longitude": 8.411,
+    "name": "PriceNow",
+    "startupska_id": 157,
+    "url": "http://www.price-now.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.788,
+    "longitude": 8.107,
+    "name": "PriceSpot UG",
+    "startupska_id": 330,
+    "url": "http://www.pricespot.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.011,
+    "longitude": 8.329,
+    "name": "Proom Media",
+    "startupska_id": 160,
+    "url": "http://www.proom-media.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.014,
+    "longitude": 8.358,
+    "name": "PXNG.LI GdbR",
+    "startupska_id": 35,
+    "url": "http://www.pong.li"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.425,
+    "name": "Qymatix Solutions GmbH",
+    "startupska_id": 169,
+    "url": "http://www.qymatix.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.425,
+    "name": "Qymatix Solutions GmbH",
+    "startupska_id": 329,
+    "url": "https://www.qymatix.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.017,
+    "longitude": 8.424,
+    "name": "RedSeat",
+    "startupska_id": 261,
+    "url": "http://www.redseat.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.011,
+    "longitude": 8.425,
+    "name": "reposit.records UG",
+    "startupska_id": 247,
+    "url": "http://www.repositrecords.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.007,
+    "longitude": 8.523,
+    "name": "RESTUBE GmbH",
+    "startupska_id": 150,
+    "url": "http://www.restube.eu"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.195,
+    "longitude": 8.228,
+    "name": "ReTest",
+    "startupska_id": 214,
+    "url": "http://www.retest.de/"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.014,
+    "longitude": 8.429,
+    "name": "ReTest",
+    "startupska_id": 334,
+    "url": "http://www.retest.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.295,
+    "longitude": 8.648,
+    "name": "RevoPrint",
+    "startupska_id": 138,
+    "url": "http://www.revoprint.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.127,
+    "longitude": 8.42,
+    "name": "riskoo GmbH & Co. KG",
+    "startupska_id": 327,
+    "url": "https://www.riskoo.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.143,
+    "longitude": 9.361,
+    "name": "Sanabest GmbH",
+    "startupska_id": 309,
+    "url": "http://www.sanabest.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.009,
     "longitude": 8.397,
+    "name": "SCHLEYER CONVERSION",
+    "startupska_id": 155,
+    "url": "http://www.schleyer-conversion.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.01,
+    "longitude": 8.397,
+    "name": "SchulLV ",
+    "startupska_id": 64,
+    "url": "http://www.SchulLV.net"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.005,
+    "longitude": 8.432,
+    "name": "SearchHaus",
+    "startupska_id": 168,
+    "url": "http://www.searchhaus.net"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.013,
+    "longitude": 8.427,
+    "name": "seminaut",
+    "startupska_id": 205,
+    "url": "http://www.seminaut.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.341,
+    "longitude": 7.872,
+    "name": "sevDesk",
+    "startupska_id": 241,
+    "url": "http://sevdesk.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.007,
+    "longitude": 8.429,
+    "name": "Sharkbomb Studios",
+    "startupska_id": 53,
+    "url": "http://www.sharkbombs.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.0104,
+    "longitude": 8.4323,
+    "name": "SHNUPS UG (haftungsbeschr\u00e4nkt)",
+    "url": "http://www.shnups.com/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.002,
+    "longitude": 8.387,
+    "name": "Siccas Guitars",
+    "startupska_id": 358,
+    "url": "http://www.siccas.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.898,
+    "longitude": 8.421,
+    "name": "softtop 'ride dry and easy'",
+    "startupska_id": 298,
+    "url": "http://www.softtop.bike"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.898,
+    "longitude": 8.421,
+    "name": "softtop 'ride dry and easy'",
+    "startupska_id": 315,
+    "url": "http://www.softtop.bike"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.802,
+    "longitude": 9.533,
+    "name": "Software Factories UG",
+    "startupska_id": 37,
+    "url": "http://www.soft-fact.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.948,
+    "longitude": 8.394,
+    "name": "soop International GmbH",
+    "startupska_id": 239,
+    "url": "http://www.soop-international.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.998,
+    "longitude": 8.478,
+    "name": "STAPPZ made by Iunera GmbH & CO. KG",
+    "startupska_id": 231,
+    "url": "http://stappz.com"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.0126,
+    "longitude": 8.4271,
+    "name": "store2be GmbH",
+    "url": "http://www.store2be.com/"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": false,
+    "latitude": 49.01,
+    "longitude": 8.386,
+    "name": "Studi-Food",
+    "startupska_id": 238,
+    "url": "http://studi-food-ka.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.049,
+    "longitude": 8.534,
+    "name": "SURFtheWORLD",
+    "startupska_id": 82,
+    "url": "http://www.surf-the-world.com/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.013,
+    "longitude": 8.392,
+    "name": "techdev Solutions UG (haftungsbeschr\u00e4nkt)",
+    "startupska_id": 136,
+    "url": "http://techdev.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.0,
+    "longitude": 8.466,
+    "name": "TelPit",
+    "startupska_id": 215,
+    "url": "http://www.telpit.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.78,
+    "longitude": 8.207,
+    "name": "Tempomacher Consulting UG (haftungsbeschr\u00e4nkt)",
+    "startupska_id": 328,
+    "url": "http://www.tempomacher-consulting.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.482,
+    "longitude": 8.428,
+    "name": "Tempreo UG (haftungsbeschr\u00e4nkt)",
+    "startupska_id": 337,
+    "url": "http://www.tempreo.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.996,
+    "longitude": 8.371,
+    "name": "Tralios IT GmbH",
+    "startupska_id": 81,
+    "url": "http://www.tralios.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.725,
+    "longitude": 9.111,
+    "name": "trendmarke Werbeagentur GmbH",
+    "startupska_id": 38,
+    "url": "http://www.trendmarke.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.934,
+    "longitude": 8.44,
+    "name": "Tut-All Software",
+    "startupska_id": 218,
+    "url": "http://www.tut-all.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
     "latitude": 48.997,
+    "longitude": 8.392,
+    "name": "Unibrett GbR",
+    "startupska_id": 314,
+    "url": "http://www.unibrett.net"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.021,
+    "longitude": 8.37,
+    "name": "UniReg",
+    "startupska_id": 270,
+    "url": "http://www.uni-reg.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 50.115,
+    "longitude": 8.675,
+    "name": "United Signals GmbH",
+    "startupska_id": 39,
+    "url": "http://www.united-signals.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.082,
+    "longitude": 8.196,
+    "name": "UVstars",
+    "startupska_id": 134,
+    "url": "http://www.uvstars.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.134,
+    "longitude": 8.594,
+    "name": "VICARDION",
+    "startupska_id": 125,
+    "url": "http://www.vicardion.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.012,
+    "longitude": 8.425,
+    "name": "Videmo Intelligente Videoanalyse GmbH & Co. KG",
+    "startupska_id": 131,
+    "url": "http://www.videmo.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.709,
+    "longitude": 9.269,
+    "name": "Vidipedia GmbH",
+    "startupska_id": 288,
+    "url": "http://viunity.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.964,
+    "longitude": 8.411,
+    "name": "Vital Coaches",
+    "startupska_id": 175,
+    "url": "http://www.vital-coaches.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.032,
+    "longitude": 8.391,
+    "name": "WALNUSS",
+    "startupska_id": 127,
+    "url": "http://www.walnuss-ds.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.953,
+    "longitude": 8.404,
+    "name": "Waste Value UG",
+    "startupska_id": 266,
+    "url": "http://www.waste-value.com"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.001,
+    "longitude": 8.41,
+    "name": "Wave Event GmbH",
+    "startupska_id": 146,
+    "url": "http://www.wave-event.de"
+  },
+  {
+    "isPermitted": true,
+    "isPionierGarage": true,
+    "latitude": 49.001,
+    "longitude": 8.391,
+    "name": "Wechselfuchs UG",
+    "startupska_id": 206,
+    "url": "https://www.wechselfuchs.de/"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.036,
+    "longitude": 8.437,
+    "name": "Wer Forscht Was",
+    "startupska_id": 256,
+    "url": "http://www.werforschtwas.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.946,
+    "longitude": 8.478,
+    "name": "Xtal GbR (www.osos-sales.de)",
+    "startupska_id": 299,
+    "url": "http://www.osos-sales.de"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 49.013,
+    "longitude": 8.441,
+    "name": "y8x",
+    "startupska_id": 313,
+    "url": "http://y8x.cc"
+  },
+  {
+    "isPermitted": false,
+    "isPionierGarage": false,
+    "latitude": 48.997,
+    "longitude": 8.397,
     "name": "zamo UG (haftungsbeschr\u00e4nkt)",
-    "url": "http://www.zamo.eu",
-    "startupska_id": 316
+    "startupska_id": 316,
+    "url": "http://www.zamo.eu"
   }
 ]
