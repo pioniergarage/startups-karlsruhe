@@ -32,7 +32,7 @@
     "startupska_id": 333,
     "url": "http://articool.de/",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.345
   },
   {
@@ -77,7 +77,7 @@
     "startupska_id": 227,
     "url": "http://bit.ly/1JIGmjP",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.42
   },
   {
@@ -140,7 +140,7 @@
     "startupska_id": 173,
     "url": "http://www.campusjaeger.de/",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.387
   },
   {
@@ -311,7 +311,7 @@
     "startupska_id": 354,
     "url": "http://Frontyardwars.com",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.43
   },
   {
@@ -365,7 +365,7 @@
     "startupska_id": 57,
     "url": "http://www.busliniensuche.de",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.432
   },
   {
@@ -437,7 +437,7 @@
     "startupska_id": 26,
     "url": "http://www.inreal-tech.com",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.394
   },
   {
@@ -473,7 +473,7 @@
     "startupska_id": 233,
     "url": "http://www.lehrwerk.com",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.422
   },
   {
@@ -680,7 +680,7 @@
     "startupska_id": 179,
     "url": "http://www.papershift.com",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.433
   },
   {
@@ -778,7 +778,7 @@
     "latitude": 49.195,
     "startupska_id": 214,
     "url": "http://www.retest.de/",
-    "isPermitted": false,
+    "isPermitted": true,
     "isPionierGarage": false,
     "longitude": 8.228
   },
@@ -959,7 +959,7 @@
     "startupska_id": 270,
     "url": "http://www.uni-reg.de",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.37
   },
   {
@@ -1049,7 +1049,7 @@
     "startupska_id": 206,
     "url": "https://www.wechselfuchs.de/",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.391
   },
   {
@@ -1337,7 +1337,7 @@
     "startupska_id": 50,
     "url": "http://www.lengoo.de",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.422
   },
   {
@@ -1445,7 +1445,7 @@
     "startupska_id": 244,
     "url": "http://www.pardonate.com",
     "isPermitted": true,
-    "isPionierGarage": false,
+    "isPionierGarage": true,
     "longitude": 8.42
   },
   {
