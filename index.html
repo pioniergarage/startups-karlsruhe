@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Startups in Karlsruhe - Hotspots, Heatmap und Cluster</title>
+	<title>Startups in Karlsruhe - Die Karlsruher Startup-Szene</title>
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="img/logo_pg.png"/>
@@ -8,10 +8,10 @@
 	<meta charset="utf-8">
 
 	 <!-- Twitter Card data -->
-	<meta name="twitter:card" value="Startups in Karlsruhe - Heatmap, Cluster und Links">
+	<meta name="twitter:card" value="Startups in Karlsruhe - Die Karlsruher Startup-Szene">
 
 	<!-- Open Graph data -->
-	<meta property="og:title" content="Startups in Karlsruhe - Heatmap, Cluster und Links" />
+	<meta property="og:title" content="Startups in Karlsruhe - Die Karlsruher Startup-Szene" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://pioniergarage.github.io/startups-karlsruhe/" />
 	<meta property="og:image" content="https://pioniergarage.github.io/startups-karlsruhe/img/startups-in-karlsruhe.jpg" />
@@ -50,14 +50,18 @@
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				<h4 class="modal-title"><img src="img/logo_pg.png" style="height: 25px"> Startups in Karlsruhe</h4>
+				<h4 class="modal-title"><img src="img/logo_pg.png" style="height: 25px"> Startups in Karlsruhe - Die Karlsruher Startup-Szene</h4>
 			</div>
 			<div class="modal-body">
 				<p>
-					Dies ist eine Visualisierung der Startups in Karlsruhe als Heatmap. Die GPS-Daten wurden bereitgestellt vom <a href="http://cyberforum.de" target="_blank">CyberForum</a>. Die Namen und URLs der Startups dürfen wir leider nicht zeigen.
+					Wolltest du schon immer entdecken, welche Startups es in Karlsruhe gibt und wo die Hotspots der Gründerszene sind? Hier wirst du fündig! Dies ist eine Visualisierung der Startups in Karlsruhe als Heatmap.
 				</p>
 				<p>
 					Erstellt von Mitgliedern der <a href="http://pioniergarage.de" target="_blank">PionierGarage</a> und übrigens auch <a href="https://github.com/pioniergarage/startups-karlsruhe">auf GitHub</a>.
+				</p>
+				<hr>
+				<p>
+					Die GPS-Daten werden freundlicherweise bereitgestellt vom <a href="http://cyberforum.de" target="_blank">CyberForum</a>. Wir haben leider keine Erlaubnis Namen und URLs der Startups zu zeigen, weshalb nur die blauen Startups mit Details zu sehen sind. Diese haben ihre Adresse im Impressum öffentlich oder per Mail freigegeben. Eine Eintragung ist jederzeit über eine formlose Mail an <a href="mailto:info(at)pioniergarage(punkt)de">info(at)pioniergarage(punkt)de</a> möglich.
 				</p>
 			</div>
 			<div class="modal-footer">
@@ -80,6 +84,17 @@
             maxZoom: 17
         }).addTo(map);
 
+		var greyIcon = L.icon({
+			iconUrl: 'img/marker-icon-grey.png',
+			shadowUrl: 'js/leaflet/images/marker-shadow.png',
+
+			iconSize:     [25, 41], // size of the icon
+			shadowSize:   [41, 41], // size of the shadow
+			iconAnchor:   [12, 41], // point of the icon which will correspond to marker's location
+			shadowAnchor: [12, 41],  // the same for the shadow
+			popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+		});
+
 		var clusters = L.markerClusterGroup({
             'singleMarkerMode': true, // 1-cluster instead of pointer
             'maxClusterRadius': 150 // clusters have 150px radius -> larger clusters
@@ -95,19 +110,40 @@
 		}).addTo(map);
 
 
+		var permitted_ids;
+		$.getJSON("permission.json", function(data) {
+			permitted_ids = data;
+		});
+
+
 		$.getJSON( "data.json", function( data ) {
 			for (var i = 0; i < data.length; i++) {
 				var location = data[i];
 
-                var geocode = location.geocode;
-				var coordinates = [geocode.latitude, geocode.longitude];
+				var coordinates = [location.latitude, location.longitude];
+
+				var popup_content;
+				var settings = {
+					'icon': greyIcon
+				};
+
+				var is_permitted = location.isPermitted || location.isPionierGarage;
+				if (is_permitted) {
+					popup_content = "<a href=\"" + location.url + "\">" + location.name + "</a>";
+					settings = {}
+				}
 
 				// markers (separate because of conflicts otherwise)
-				L.marker(coordinates)
+				var marker_cluster = L.marker(coordinates, settings)
 						.addTo(clusters);
 
-				L.marker(coordinates)
+				var marker_markers = L.marker(coordinates, settings)
 						.addTo(markers);
+
+				if (is_permitted) {
+					marker_cluster.bindPopup(popup_content);
+					marker_markers.bindPopup(popup_content);
+				}
 
 				// heat
 				heat.addLatLng(coordinates);
